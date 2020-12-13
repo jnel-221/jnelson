@@ -51,8 +51,14 @@ img {
 }
 
 /*portfolio.html styling*/
-figure {
+
+/*
+
+/*contact.html stylings*/
+.form-label {
+  font-family: "Open Sans", sans-serif;
 }
+
 /*
 Fonts to use:
 Brand: font-family: 'Montserrat', sans-serif; weights available: 100, 400, 500
