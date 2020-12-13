@@ -1,4 +1,4 @@
-/* Body Styling */
+/* CSS for all pages*/
 body {
   /* background-image: url(../images/backgroundEendra.jpg); */
   background-image: url(https://images.unsplash.com/photo-1495283897339-a5736d2c12b2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);
@@ -21,6 +21,10 @@ body {
 
 /* Main Styling */
 /* Footer Styling */
+footer {
+  color: rgb(250, 248, 248);
+  text-align: center;
+}
 /* Design notes--
 
 Fonts to use:
