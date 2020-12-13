@@ -10,6 +10,7 @@ h1 {
   font-weight: 500;
   color: rgb(9, 1, 126);
 }
+
 main {
   flex: auto;
 }
@@ -57,6 +58,15 @@ img {
 /*contact.html stylings*/
 .form-label {
   font-family: "Open Sans", sans-serif;
+}
+.btn {
+  background-color: rgb(9, 1, 126);
+  color: rgb(250, 248, 248);
+  font-family: "Montserrat", sans-serif;
+}
+
+.btn:hover {
+  color: rgb(245, 185, 35);
 }
 
 /*
