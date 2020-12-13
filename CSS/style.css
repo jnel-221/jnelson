@@ -1,3 +1,9 @@
+/* Body Styling */
+body {
+  background-image: url(../images/backgroundEendra.jpg);
+  background-color: goldenrod;
+}
+
 /*Navbar styling*/
 .navbar-brand {
   /* background-color: rgb(58, 189, 182); */
@@ -12,12 +18,8 @@
   font-weight: 100;
 }
 
-#links {
-  color: rgb(39, 1, 126);
-}
-.fa-hamburger {
-  font-size: 70px;
-}
+/* Main Styling */
+/* Footer Styling */
 /* Design notes--
 
 Fonts to use:
@@ -27,4 +29,10 @@ Other title elements: font-family: 'Montserrat', sans-serif;
 p elements: font-family: 'Open Sans', sans-serif; weights available: 300, 400, 600
 
 base-line indigo to play with background-color: rgb(39, 1, 126);
+ 
+
+if time allows, figure out how to change icon on toggler
+.fa-hamburger {
+  font-size: 70px;
+}
 */
