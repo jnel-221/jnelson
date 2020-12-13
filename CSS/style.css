@@ -18,6 +18,9 @@ p {
 }
 .container {
   margin-top: 50px;
+}
+.window {
+  padding: 45px;
   background-color: rgb(225, 225, 228);
 }
 /*Navbar styling*/
@@ -35,9 +38,6 @@ p {
 }
 
 /* Main Styling */
-.col-md-8 {
-  padding: 45px;
-}
 
 img {
   float: left;
