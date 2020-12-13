@@ -7,7 +7,18 @@
 
 #name {
   color: rgb(250, 248, 248);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
 }
 .cosmojen {
   font-size: 70px;
 }
+/* Fonts to use::after
+Brand: font-family: 'Montserrat Subrayada', sans-serif;
+h1 elements: font-family: 'Montserrat', sans-serif;
+Other title elements: font-family: 'Montserrat', sans-serif;
+p elements: font-family: 'Open Sans', sans-serif;
+
+
+
+*/
