@@ -1,6 +1,7 @@
 /*Navbar styling*/
 .navbar-brand {
-  background-color: rgb(58, 189, 182);
+  /* background-color: rgb(58, 189, 182); */
+  background-color: rgb(39, 1, 126);
   font-size: 30px;
   padding: 15px;
 }
@@ -10,15 +11,20 @@
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
 }
-.cosmojen {
+
+#links {
+  color: rgb(39, 1, 126);
+}
+.fa-hamburger {
   font-size: 70px;
 }
-/* Fonts to use::after
-Brand: font-family: 'Montserrat Subrayada', sans-serif;
+/* Design notes--
+
+Fonts to use:
+Brand: font-family: 'Montserrat', sans-serif; weights available: 100, 400, 500
 h1 elements: font-family: 'Montserrat', sans-serif;
 Other title elements: font-family: 'Montserrat', sans-serif;
-p elements: font-family: 'Open Sans', sans-serif;
+p elements: font-family: 'Open Sans', sans-serif; weights available: 300, 400, 600
 
-
-
+base-line indigo to play with background-color: rgb(39, 1, 126);
 */
