@@ -5,6 +5,16 @@ body {
   background-color: goldenrod;
 }
 
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  color: rgb(9, 1, 126);
+}
+.container {
+  margin-top: 50px;
+
+  background-color: rgb(225, 225, 228);
+}
 /*Navbar styling*/
 .navbar-brand {
   /* background-color: rgb(58, 189, 182); */
@@ -20,6 +30,13 @@ body {
 }
 
 /* Main Styling */
+.col-md-8 {
+  padding: 45px;
+}
+
+img {
+  float: left;
+  margin-right: 10px;
 /* Footer Styling */
 footer {
   color: rgb(250, 248, 248);
