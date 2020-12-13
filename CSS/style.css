@@ -1,9 +1,13 @@
+/*Navbar styling*/
 .navbar-brand {
-  background-color: aquamarine;
-  color: azure;
-  font-size: 24px;
+  background-color: rgb(58, 189, 182);
+  font-size: 30px;
+  padding: 15px;
 }
 
+#name {
+  color: rgb(250, 248, 248);
+}
 .cosmojen {
   font-size: 70px;
 }
