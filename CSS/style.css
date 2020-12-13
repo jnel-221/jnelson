@@ -17,7 +17,7 @@ p {
   font-family: "Open Sans", sans-serif;
 }
 .container {
-  margin-top: 50px;
+  margin-top: 75px;
 }
 .window {
   padding: 45px;
@@ -36,20 +36,23 @@ p {
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
 }
-
-/* Main Styling */
-
-img {
-  float: left;
-  margin-right: 10px;
-}
 /* Footer Styling */
 /* footer {
   color: rgb(250, 248, 248);
   text-align: center;
 } */
 /* Design notes--
+/* index.html styling*/
 
+img {
+  float: left;
+  margin-right: 10px;
+}
+
+/*portfolio.html styling*/
+figure {
+}
+/*
 Fonts to use:
 Brand: font-family: 'Montserrat', sans-serif; weights available: 100, 400, 500
 h1 elements: font-family: 'Montserrat', sans-serif;
