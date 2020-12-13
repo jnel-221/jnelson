@@ -1,13 +1,14 @@
 /* Body Styling */
 body {
-  background-image: url(../images/backgroundEendra.jpg);
+  /* background-image: url(../images/backgroundEendra.jpg); */
+  background-image: url(https://images.unsplash.com/photo-1495283897339-a5736d2c12b2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);
   background-color: goldenrod;
 }
 
 /*Navbar styling*/
 .navbar-brand {
   /* background-color: rgb(58, 189, 182); */
-  background-color: rgb(39, 1, 126);
+  background-color: rgb(9, 1, 126);
   font-size: 30px;
   padding: 15px;
 }
