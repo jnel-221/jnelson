@@ -106,15 +106,6 @@ img {
 }
 
 /*
-Fonts to use:
-Brand: font-family: 'Montserrat', sans-serif; weights available: 100, 400, 500
-h1 elements: font-family: 'Montserrat', sans-serif;
-Other title elements: font-family: 'Montserrat', sans-serif;
-p elements: font-family: 'Open Sans', sans-serif; weights available: 300, 400, 600
-
-base-line indigo to play with background-color: rgb(39, 1, 126);
- 
-
 if time allows, figure out how to change icon on toggler
 .fa-hamburger {
   font-size: 70px;
