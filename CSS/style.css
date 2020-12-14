@@ -72,8 +72,9 @@ img {
 
 @media screen and (max-width: 406px) {
   img {
-    width:100%
+    width: 100%;
   }
+}
 /*portfolio.html styling*/
 .port-image {
   width: 100%;
@@ -83,7 +84,11 @@ img {
   margin-bottom: 15px;
 }
 
-
+@media screen and (max-width: 767px) {
+  img {
+    width: 100%;
+  }
+}
 
 /*contact.html stylings*/
 .form-label {
