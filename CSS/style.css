@@ -71,7 +71,11 @@ img {
 }
 
 /*portfolio.html styling*/
-
+.port-image {
+  width: 350px;
+  height: 350px;
+  position: relative;
+}
 /*
 
 /*contact.html stylings*/
