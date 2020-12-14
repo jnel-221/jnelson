@@ -38,6 +38,12 @@ p {
   font-weight: 100;
 }
 
+#name:hover {
+  color: rgb(245, 185, 35);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
 .nav-item {
   font-family: "Open Sans", sans-serif;
 }
