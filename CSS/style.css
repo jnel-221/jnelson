@@ -41,6 +41,10 @@ p {
 .nav-item {
   font-family: "Open Sans", sans-serif;
 }
+.nav-item:hover {
+  font-family: "Open Sans", sans-serif;
+  background-color: rgb(245, 185, 35, 0.7);
+}
 
 /* Footer Styling; sticky footer for bootstrap found on getbootstrap.com */
 
