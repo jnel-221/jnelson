@@ -37,5 +37,5 @@ Portfolio page on smaller viewport with external content (navigation links) reve
 
 ## Link to Portfolio
 
-[Jennifer Nelson](https://jnel-221.github.io/jnelson/)
+[JNelson](https://jnel-221.github.io/jnelson/)
 
