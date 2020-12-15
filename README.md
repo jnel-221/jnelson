@@ -16,11 +16,11 @@ Unsplash
 
 ## Screenshots
 
-! [Image of About Me page] (/images/About-Me.png)
+! [Image of About Me page] (./images/About-Me.png)
 
-! [Image of  collapsed navbar on Contact page] (/images/Contact-Me-toggler.png)
+! [Image of  collapsed navbar on Contact page] (./images/Contact-Me-toggler.png)
 
-! [Image of expanded toggler menu on Portfolio page] (/images/Portfolio-open-toggler.png)
+! [Image of expanded toggler menu on Portfolio page] (./images/Portfolio-open-toggler.png)
 
 ## Link to Portfolio
 
