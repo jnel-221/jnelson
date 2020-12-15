@@ -9,7 +9,7 @@ The objective of this project was to create a responsive portfolio that presents
 2. External Content: the collapse plugin was used to reveal external content when the navigation toggler is clicked.
 3. Footer:  styling added to create a sticky footer, this styling was created referencing an example on getbootstrap.com.  Custom colors and styling added.
 4. Portfolio:  The portfolio utilizes sub-rows, sub-columns, and additional CSS styling for uniform display of portfolio images.
-5. Contact Me: The contact me page utilizes Bootstrap form components for the name, email, and  message fields as well as submit button.  Pseudo classe used to change color of submit button text upon hovering.
+5. Contact Me: The contact me page utilizes Bootstrap form components for the name, email, and  message fields as well as submit button.  Pseudo class used to change color of submit button text upon hovering.
 
 The following design resources were used:
 1. Google fonts: Fonts for all text except example text within form fields customized with two Google fonts. 'Montserrat' was used for all headings and submit button.  'Open-Sans' used for paragraphs, links, footer text and form field headings.
@@ -37,4 +37,5 @@ Portfolio page on smaller viewport with external content (navigation links) reve
 
 ## Link to Portfolio
 
-    https://jnel-221.github.io/jnelson/
+[portfolio page](https://jnel-221.github.io/jnelson/)
+
