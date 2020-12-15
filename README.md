@@ -17,7 +17,12 @@ The following design resources were used:
 3. Portfolio Placeholder Photos: the photos used as placeholder images were taken from my photo collection (taken by me when out and about).
 
 ## For Development
-Currently the portfolio page contains placeholder images (photos taken by me on various adventures).  These will be replaced with screenshots of (and links to) projects as I develop them.  The Contact Me form components are not yet functional.  Github, Linked-In, and other profile links will be added as I update my profiles and gain coding experience.
+
+1. Portfolio: the placeholder images will be replaced with screenshots taken from applications as they are added to the portfolio.  Captions and links to the applications will be added as well.
+2. Contact Me: the submit button needs additional programing to send an email upon clickng.
+3. Github, Linked-In, and social media links:  these will be added as I update my repositories, resume, etc. with current work.
+4. Font Awesome: additional research needed to apply font awesome icons to form fields and toggler.
+
 
 ## Resources 
 Bootstrap CSS
