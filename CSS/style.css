@@ -85,33 +85,32 @@ body {
 /* End of shared styling across all pages */
 
 /* index.html styling*/
-img {
+#jnel {
   float: left;
   margin-right: 10px;
 }
 
 @media screen and (max-width: 406px) {
-  img {
+  #jnel {
     width: 100%;
   }
 }
 
 /*portfolio.html styling*/
-.port-image {
+figure {
   position: relative;
-  margin-right: 10px;
-  margin-bottom: 15px;
 }
 
 .banner {
-  /* width: 350px; */
+  width: 88% !important;
+  margin: auto;
   background-color: rgba(5, 51, 121, 0.7);
   color: rgb(245, 185, 35, 0.7);
   font-family: "Open Sans", sans-serif;
   font-size: 25px;
   text-align: center;
   bottom: 25px;
-  /* telling it to be 5 px from the bottom */
+  /* telling it to be 25 px from the bottom */
 }
 
 .banner:hover {
@@ -121,10 +120,10 @@ img {
   font-weight: bold;
 }
 
-@media screen and (max-width: 768px) {
-  .port-image {
-    width: 100%;
-    margin-bottom: 15px;
+@media screen and (max-width: 1005px) {
+  .banner {
+    font-size: 20px;
+    bottom: 15px;
   }
 }
 
