@@ -1,6 +1,8 @@
 /* Shared styling for all  HTML pages: body, shared selectors, navbar, and footer*/
 body {
   background-image: url(https://images.unsplash.com/photo-1495283897339-a5736d2c12b2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);
+  /* background-image: url(https://images.unsplash.com/photo-1532026525415-cf16e856b61d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2395&q=80); */
+  background-size: cover;
   background-color: goldenrod;
 }
 
@@ -21,6 +23,21 @@ p {
   margin-bottom: 75px;
 }
 
+#dragonBoat {
+  text-decoration: none;
+  color: rgba(5, 51, 121);
+}
+
+.social-icon {
+  color: rgb(245, 185, 35);
+  size: ;
+}
+
+.vr {
+  border-right: 2px solid rgb(245, 185, 35, 0.7);
+  height: 10px;
+}
+
 @media screen and (max-width: 500px) {
   .content {
     margin-top: 75px;
@@ -38,7 +55,7 @@ p {
 }
 
 #name {
-  color: rgb(250, 248, 248);
+  color: rgba(250, 248, 248);
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
   transition: 0.3s;
@@ -83,7 +100,7 @@ body {
 /* index.html styling*/
 .window {
   padding: 45px;
-  background-color: rgb(225, 225, 228);
+  background-color: rgba(225, 225, 228, 0.911);
 }
 
 #jnel {
