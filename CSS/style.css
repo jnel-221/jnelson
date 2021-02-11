@@ -57,9 +57,21 @@ a:hover {
   font-size: 30px;
   padding: 15px;
 }
+.navbar {
+  position: relative;
+
+  transition: all 0.3s ease-out;
+  z-index: 1030;
+}
+
+.navbar.fixed-top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2030;
+}
 
 #name {
-  /* color: rgba(250, 248, 248); */
   color: yellowgreen;
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
